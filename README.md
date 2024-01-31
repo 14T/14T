@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Leadership skills**
 
-- 👯 I’m looking to collaborate on **ML**
+- 👯 I’m looking to collaborate on **AI based application**
 
 - 📝 I regularly write articles on [https://medium.com/@anand.chetan](https://medium.com/@anand.chetan)
 
@@ -14,8 +14,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/chetanconnect/](https://www.linkedin.com/in/chetanconnect/)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[https://medium.com/@anand.chetan](https://medium.com/@anand.chetan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
