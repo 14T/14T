@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Chetan Anand</h1>
-<h3 align="center">A passionate iOS developer from Singapore</h3>
+<h1 align="center">👋 Hi there, I'm Chetan Anand</h1>
+<h3 align="center">🚀 iOS Developer | Passionate about building seamless mobile experiences | Singapore 🇸🇬</h3>
 
-- 🔭 I’m currently working on **iOS Framework**
+* 🔭 Currently architecting a mobile application for **Bank of America**, built from the ground up with **biometric authentication** for both **iPhone** and **iPad**.
+* 🌱 Focused on growing my **leadership and team-building** skills.
+* 🤖 Built a live **[AI-powered EdTech application](https://www.naclprep.com/welcome)** that's helping thousands of learners.
+* 🤝 Always open to collaborating on impactful and innovative projects.
+* ✍️ I share thoughts, tutorials, and insights on [Medium](https://medium.com/@anand.chetan).
+* 📫 Feel free to reach out: **[anand.chetan@icloud.com](mailto:anand.chetan@icloud.com)**
+* 💼 Learn more about my professional journey on [LinkedIn](https://www.linkedin.com/in/chetanconnect/)
 
-- 🌱 I’m currently learning **Leadership skills**
+---
+## ✍️ Recent Blog Posts
 
-- 👯 I’m looking to collaborate on **AI based application**
+Catch up on my writing at [medium.com/@anand.chetan](https://medium.com/@anand.chetan)
 
-- 📝 I regularly write articles on [https://medium.com/@anand.chetan](https://medium.com/@anand.chetan)
+---
 
-- 📫 How to reach me **notifychetan@gmail.com**
+## 🚀 Open Source Contributions
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chetanconnect/](https://www.linkedin.com/in/chetanconnect/)
-
-### Blogs posts
-[https://medium.com/@anand.chetan](https://medium.com/@anand.chetan)
+* 📦 Contributed to [Firebase for Flutter](https://github.com/firebase/flutterfire) – [PR #17599](https://github.com/firebase/flutterfire/pull/17599) merged 🎉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
