@@ -18,7 +18,7 @@ Catch up on my writing at [medium.com/@anand.chetan](https://medium.com/@anand.c
 
 ## 🚀 Open Source Contributions
 
-* 📦 Contributed to [Firebase for Flutter](https://github.com/firebase/flutterfire) – [PR #17599](https://github.com/firebase/flutterfire/pull/17599) merged 🎉
+* 📦 Contributed to [Google Firebase SDK](https://github.com/firebase/flutterfire) – [PR #17599](https://github.com/firebase/flutterfire/pull/17599) merged 🎉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
