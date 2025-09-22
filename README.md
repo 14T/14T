@@ -19,6 +19,7 @@ Catch up on my writing at [medium.com/@anand.chetan](https://medium.com/@anand.c
 ## 🚀 Open Source Contributions
 
 * 📦 Contributed to [Google Firebase SDK](https://github.com/firebase/flutterfire) – [PR #17599](https://github.com/firebase/flutterfire/pull/17599) merged 🎉
+* 📦 Created and maintain [DateRangePicker](https://swiftpackageindex.com/14T/DateRangePicker) – A Swift package for iOS date range selection
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
